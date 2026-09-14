@@ -1,6 +1,7 @@
 ### Application ###
 bot_state.json
 client_secret.json
+token.pickle
 
 .gradle
 build/
