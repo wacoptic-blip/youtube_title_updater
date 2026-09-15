@@ -192,7 +192,7 @@ WEEKDAY_NAMES = ('Monday', 'Tuesday', 'Wednesday', 'Thursday',
 # Fast') are reported for every day within them and are never used as a title.
 # 'lordlyFeast'/'majorFeast' identify the 7 major Lord's feasts; their title
 # is applied a day early (the eve) when today itself has no feast of its own.
-COPTIC_CALENDAR_ENABLED = True
+COPTIC_CALENDAR_ENABLED = False
 COPTIC_API_BASE_URL = 'https://api.coptic.io/api'
 COPTIC_API_TIMEOUT_SECONDS = 8
 COPTIC_FEAST_EXCLUDE_TYPES = {'fast', 'commemoration'}
